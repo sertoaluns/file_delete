@@ -1,0 +1,16 @@
+{
+  "app_title": "Full Screen Video Player",
+  "title": "Full Screen Video Player",
+  "placeholder_link": "Paste Netflix / YouTube / video link",
+  "btn_paste": "Paste",
+  "recent_empty": "No recent links",
+  "recent_header": "Recent Links",
+  "chk_fullscreen": "True fullscreen (F11)",
+  "btn_open": "OPEN",
+  "err_empty_link": "Please enter a video link.",
+  "err_browser_not_found": "Google Chrome or Microsoft Edge not found!\nPlease install one.",
+  "err_window_not_found": "Browser window could not be captured.",
+  "err_launch_failed": "Launch error: {error}",
+  "pin_tooltip": "Always on top",
+  "close_tooltip": "Close"
+}

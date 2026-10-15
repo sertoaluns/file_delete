@@ -1,0 +1,28 @@
+# Browser profile & session data (sensitive DRM, logins, cookies)
+profil/
+
+# User specific configuration and history
+settings.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+venv/
+.venv/
+env/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.DS_Store
+Thumbs.db
+
+# Antigravity agent temp files
+.gemini/

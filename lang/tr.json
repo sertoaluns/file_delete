@@ -1,0 +1,16 @@
+{
+  "app_title": "Tam Ekran Video Oynatıcı",
+  "title": "Tam Ekran Video Oynatıcı",
+  "placeholder_link": "Netflix / YouTube / video linkini yapıştır",
+  "btn_paste": "Yapıştır",
+  "recent_empty": "Son kullanılan link yok",
+  "recent_header": "Geçmiş Linkler",
+  "chk_fullscreen": "Gerçek tam ekran (F11)",
+  "btn_open": "AÇ",
+  "err_empty_link": "Lütfen bir video linki girin.",
+  "err_browser_not_found": "Google Chrome veya Microsoft Edge bulunamadı!\nLütfen birini yükleyin.",
+  "err_window_not_found": "Tarayıcı penceresi yakalanamadı.",
+  "err_launch_failed": "Başlatma hatası: {error}",
+  "pin_tooltip": "Her zaman üstte",
+  "close_tooltip": "Kapat"
+}
